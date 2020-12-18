@@ -11,10 +11,6 @@ Merged by John Cowan <cowan@ccil.org>
 Modified by Paul Burton <solution@earthlink.net> 12/96 to include new parameter
 supported by FIGlet and FIGWin.  May also be slightly modified for better use
 of new full-width/kern/smush alternatives, but default output is NOT changed.
-
-banner_sexy.flf version 1 by 3n3a (sexy@3n3a.ch)
-Thanks to the guys above I could simply replace # with █
-Date: December 18, 2020
  $ $@
  $ $@
  $ $@
